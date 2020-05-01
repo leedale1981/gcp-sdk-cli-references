@@ -1,0 +1,1 @@
+gcloud compute instances create example-vm --zone europe-west2-a

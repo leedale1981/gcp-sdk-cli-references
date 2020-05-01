@@ -1,0 +1,1 @@
+gsutil label get gs://example-storage-lab

@@ -1,0 +1,1 @@
+gsutil cp testfile.txt gs://example-storage-lab

@@ -1,0 +1,1 @@
+gsutil mb -l EUROPE-WEST2 gs://example-storage-lab-2

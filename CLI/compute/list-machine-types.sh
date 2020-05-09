@@ -1,0 +1,1 @@
+gcloud compute machine-types list --filter="NAME:f1-micro AND ZONE~europe-west"

@@ -1,1 +1,1 @@
-gcloud compute instances create example-vm --zone europe-west2-a
+gcloud compute instances create example-vm --zone europe-west2-a --machine-type f1-micro

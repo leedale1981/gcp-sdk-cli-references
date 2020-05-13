@@ -1,0 +1,1 @@
+gcloud projects create learning-project-1 --name="Learning project" --labels=function=learning

@@ -1,0 +1,1 @@
+gcloud projects add-iam-policy-binding test-proj1@example.domain.com --member='serviceAccount:test-proj1@example.domain.com' --role='roles/editor'
